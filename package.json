@@ -10,7 +10,7 @@
   "dependencies": {
     "@jesstelford/react-portal-universal": "^1.0.6",
     "cross-fetch": "^3.0.5",
-    "next": "9.4.4",
+    "next": "11.1.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "uuid": "^8.1.0"
